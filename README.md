@@ -1,6 +1,6 @@
-# Curriculo-StackX
+# Curriculo
 
-# Currículo Feito no Módulo Básico I - Introdução ao HTML - Curso da Stackx
+# Currículo Feito no Módulo Básico I - Introdução ao HTML 
 #
 Foram utilizados tags em HTML como: Header, Span, h1, h2, h5, ul ( lista não ordenadas) e section;
 #
